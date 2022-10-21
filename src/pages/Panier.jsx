@@ -29,7 +29,7 @@ padding:10px;
 margin-left:10px;
 margin-top:7px;
 color:white;
-background-color:#600836;
+background-color:#600b37;
 border:none;
 cursor: pointer;`
 const Bottom = styled.div`

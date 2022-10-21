@@ -21,7 +21,7 @@ margin-bottom:25px;
 `;
 
 const Desc = styled.div`
-font-size:12px;
+font-size:11px;
 margin-bottom:10px`;
 
 const InputContainer = styled.div `
