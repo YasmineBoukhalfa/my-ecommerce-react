@@ -16,12 +16,12 @@ flex-direction: column;
 
 
 const Title = styled.h1`
-font-size:30px;
+font-size:25px;
 margin-bottom:25px;
 `;
 
 const Desc = styled.div`
-font-size:11px;
+font-size:12px;
 margin-bottom:10px`;
 
 const InputContainer = styled.div `
@@ -51,8 +51,8 @@ const Letter = () => {
     <Title>
     ABONNEZ-VOUS ET RECEVEZ -10% DE REDUCTION !*
     </Title>
-    <Desc> *Les -10% sont uniquement valables pour les nouveaux abonnés. 
-    En vous abonnant, vous acceptez de recevoir les communications marketing de YAS SHOP par email
+    <Desc> *Les -10% sont uniquement valables pour les nouveaux abonnés. </Desc>
+    <Desc> En vous abonnant, vous acceptez de recevoir les communications marketing de YAS SHOP par email
     </Desc>
     <InputContainer>
     <Input placeholder='Votre email'/>

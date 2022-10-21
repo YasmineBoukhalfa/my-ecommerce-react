@@ -3,9 +3,10 @@ import ProductList from "./pages/ProductList";
 import Product from "./pages/Product";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
+import Panier from "./pages/Panier";
 
 const App = () => {
-  return <Product/>;
+  return <Panier/>;
 };
 
 export default App;
