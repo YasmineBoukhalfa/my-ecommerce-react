@@ -67,7 +67,7 @@ page présentation d'un seul produit.
 
  ## Affichage l'ensemble de produits:
 
-<img width="946" alt="Capture6" src="https://user-images.githubusercontent.com/116309523/197363999-90a661c5-9d6f-4870-895e-8d9f604585d4.PNG">
+<img width="939" alt="Capture8" src="https://user-images.githubusercontent.com/116309523/197364006-2ed4eafc-88d8-4fd9-8034-5fc0328fb1b2.PNG">
 
 ## Affichage d'un seul produit:
 
@@ -75,7 +75,7 @@ page présentation d'un seul produit.
 
 ## Gestion de panier:
 
-<img width="939" alt="Capture8" src="https://user-images.githubusercontent.com/116309523/197364006-2ed4eafc-88d8-4fd9-8034-5fc0328fb1b2.PNG">
+<img width="946" alt="Capture6" src="https://user-images.githubusercontent.com/116309523/197363999-90a661c5-9d6f-4870-895e-8d9f604585d4.PNG">
 
 
 
