@@ -32,9 +32,9 @@ Créer une application
 
 yarn start
 
-
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-##Projet en cours:
+
+## Projet en cours:
 
 Partie front-end d'un site e-commerce réalisé à l'aide de React JS.
 
